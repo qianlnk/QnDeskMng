@@ -1,0 +1,16 @@
+[2014-01-05 21:00:13][6560][Debug] - CClientNamePipe::CClientNamePipe
+[2014-01-05 21:00:13][6560][Debug] - CServNamePipe::CServNamePipe
+[2014-01-05 21:00:13][6560][Error] - LookupAccountName success snu = 5
+[2014-01-05 21:00:13][6560][Debug] - CSuCommunication::CSuCommunication(CSuDeque<SuCmd*>* adeque)
+[2014-01-05 21:00:13][6560][Debug] - CSuCommunication::init()
+[2014-01-05 21:00:13][6560][Debug] - CClientNamePipe::close()
+[2014-01-05 21:00:13][7228][Debug] - CServNamePipe::run()
+[2014-01-05 21:00:13][6560][Debug] - CClientNamePipe::open()
+[2014-01-05 21:00:13][6560][Debug] - send a commond, type=4, source=1, dest=0, request_id=0, response_id=0, commondID=0, action=10, length=0, content is:
+
+[2014-01-05 21:00:13][6560][Debug] - CClientNamePipe::writePacket, return success.
+[2014-01-05 21:05:48][6560][Debug] - CSuCommunication::stop()
+[2014-01-05 21:05:48][6560][Debug] - CSuCommunication::~CSuCommunication(void)
+[2014-01-05 21:05:48][6560][Debug] - CServNamePipe::~CServNamePipe
+[2014-01-05 21:05:48][6560][Debug] - CClientNamePipe::~CClientNamePipe(void)
+[2014-01-05 21:05:48][6560][Debug] - CClientNamePipe::close()
